@@ -9,3 +9,6 @@
 
 <h2><a href="https://github.com/silvestrijonathan/OOJS_curriculum/blob/add_methods_to_objects/Methods%20on%20Objects/Lesson.md">Add Methods to Objects</a></h2>
 <p>This lesson plan introduces methods and how to add them to an object created with an object literal.</p>
+
+<h2><a href="https://github.com/silvestrijonathan/OOJS_curriculum/blob/intro_to_this/This/Lesson.md">Introducing "this"</a></h2>
+<p>This lesson plan introduces the user to "this" within the context of an object, and why it is useful.</p>
