@@ -12,3 +12,9 @@
 
 <h2><a href="https://github.com/silvestrijonathan/OOJS_curriculum/blob/intro_to_this/This/Lesson.md">Introducing "this"</a></h2>
 <p>This lesson plan introduces the user to "this" within the context of an object, and why it is useful.</p>
+
+<h2><a href="https://github.com/silvestrijonathan/OOJS_curriculum/blob/similar_objects_without_constructors/Objects%20without%20Constructors/Lesson.md">Creating Multiple Objects Without Constructors</a></h2>
+<p>This lesson plan creates multiple objects with the same properties and methods without Constructors.</p>
+
+<h2><a href="https://github.com/silvestrijonathan/OOJS_curriculum/blob/introducing_constructors/Constructors/Lesson.md">Introducing Constructors</a></h2>
+<p>Building on the previous example, this lesson plan introduces Constructors and shows how they are useful.</p>
