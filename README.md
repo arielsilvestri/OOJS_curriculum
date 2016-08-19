@@ -1,5 +1,5 @@
 <h1>Object-Oriented JavaScript Curriculum</h1>
-<p>You will find my contributions towards the development of FreeCodeCamp's OOJS curriculum in this repo. Each challenge that I created has its own branch. Feel free to click through each branch to see my work, or click the title of each section below!</p>
+<p>You will find my contributions towards the development of FreeCodeCamp's OOJS curriculum in this repo. Click on each title below to go to the associated file.</p>
 
 <h2><a href="https://github.com/silvestrijonathan/OOJS_curriculum/blob/master/Intro_to_Objects.md">Introduction to JS Objects</a></h2>
 <p>This lesson plan introduces the concept of objects and how to create them using an object literal.</p>
