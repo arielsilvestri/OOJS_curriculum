@@ -35,11 +35,18 @@ var dog = {
 **Challenge Tests**
 
 Test to verify that the dog object is defined.
+
+```javascript
 assert(typeof(dog) === “object”), ‘message: `Dog` should be an object.’;
+```
 
 Test to verify that the dog object has name and numLegs properties.
+
+```javascript
+
 assert(typeof(dog.name) === ‘string’), ‘message: `dog.name` should be a string;
 assert(typeof(dog.numLegs) === ‘number’), ‘message: `dog.numLegs` should be a number;
+```
 
 **Challenge Solution**
 
